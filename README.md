@@ -70,9 +70,6 @@ Install all required Python libraries using pip:
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 
-git clone [https://github.com/sreekarnati/Weather_Forecast_Prediction](https://github.com/sreekarnati/Weather_Forecast_Prediction)
-cd Weather_Forecast_Prediction
-
 📂 Repository Structure
 
 ├── Weather_Forecast.ipynb    # Main Jupyter Notebook with all analysis steps
